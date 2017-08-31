@@ -1,4 +1,4 @@
-# TSP
+# Optimization of the travelling salesman problem (TSP)
 - Model file tsp.mod with subtour elimination
 - Model file tsp1.mod with subtours
 - Command file tsp.run
