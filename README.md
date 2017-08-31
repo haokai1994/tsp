@@ -1,5 +1,5 @@
 # TSP
-Model file tsp.mod with subtour elimination
+Model file tsp.mod with subtour elimination \n
 Model file tsp1.mod with subtours
 Command file tsp.run
 Data file toy.dat and toy28.dat
